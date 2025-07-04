@@ -1,0 +1,53 @@
+Skip to main Content
+A
+A
+A
+A
+A
+हिन्दी
+English
+Secondary menu
+SignUp Login Logout
+Meteorological & Oceanographic Satellite Data Archival Centre
+Space Applications Centre, ISRO
+☰ Menu
+You are here
+Home » Missions » SARAL-AltiKa » Payloads
+SARAL-AltiKa Payloads
+SARAL carries the following four payloads:
+Ka-band altimeter with enhanced bandwidth
+Ionospheric effects are negligible
+Better vertical resolution (0.3m)
+Ka-band (35 GHz) authorizes a compact, lightweight instrument easier to accommodate on a wide range of satellite buses.
+Dual-frequency radiometer (24/37 GHz)
+Required for tropospheric correction
+Derived from Madras (Megha-Tropiques) developments.
+Laser Retro-reflector Array
+Useful for orbitography and system calibration.
+DORIS
+For adequate orbitography performances in low earth orbit
+Enable to have similar performance as reference missions like T/P, JASON, ENVISAT
+Required for mean sea level analysis and coastal/inland application.
+Missions
+SARAL-AltiKa
+Introduction
+Objectives
+SpaceCraft
+Payloads
+Data Products
+Documents
+SEARCH
+Search
+FOLLOW US
+Website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+Feedback
+About Us
+Contact Us
+Copyright Policy
+Data Access Policy
+Hyperlink Policy
+Privacy Policy
+Website Policies
+Terms & Conditions
+FAQs
+"Ver 3.0; Last reviewed and updated on 04 Jul, 2025& Served By: Web-Srv-Pri

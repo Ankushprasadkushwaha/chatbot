@@ -1,0 +1,54 @@
+A- A A+
+संग्रहीत उत्पाद सूची
+Satellite Catalog
+Satellite:
+     KALPANA-1
+    
+Sensor:
+      VHRR
+    
+
+Show
+10
+25
+50
+100
+entries
+Search:
+Sr.No Product /
+Acq Calendar/Version Product Description Processing Level Temporal Resolution Start Date End Date
+1 K1-VHR-AMV
+Cloud Motion Vector and Water Vapour Winds derived from Kalpana IR and WV channel data 2 HALF HOURLY 2009-11-03 2012-08-06
+2 K1-VHR-AMV-VIS
+Atmospheric Motion Vectors derived using Visible Water vapour and IR bands of Kalpana 1 VHRR data 2 HALF HOURLY 2013-02-21 2017-09-16
+3 K1-VHR-BRT
+Kalpana IR Brightness Temperature 2 HALF HOURLY 2009-11-03 2017-09-19
+4 K1-VHR-BTW
+Kalpana WV Brightness Temperature 2 HALF HOURLY 2009-11-03 2017-09-19
+5 K1-VHR-CMK
+Cloud mask derived using Kalpana-1 IR channel data at every Pixel resolution 2 HALF HOURLY 2010-05-04 2011-01-04
+6 K1-VHR-CMV
+Cloud Motion Vector derived from Kalpana IR channel data 2 HALF HOURLY 2008-06-01 2010-09-08
+7 K1-VHR-DAILYIMR
+INSAT Multi Chanel Rain; Rainfall estimate derived using Indian Multi-Spectral Rainfall algorithm (IMSRA) 3 DAILY 2010-06-15 2014-04-15
+8 K1-VHR-DAILYINS
+Kalpana derived daily insulation product 0 DAILY 2011-07-17 2017-09-10
+9 K1-VHR-DAILYOLR
+Daily (averaged over previous 24 hr) Outgoing Longwave Radiation derieved from Kalpana - both IR and WV Channel data 2 DAILY 2008-06-01 2017-09-19
+10 K1-VHR-DAILYQPE
+Daily Accumulated Quantitative Precipitation Estimates based on GPI Algoritham derived using Kalpana IR channel data 2 DAILY 2008-06-01 2014-04-15
+Showing 1 to 10 of 26 entries
+Previous123Next
+
+Feedback
+About Us
+Contact Us
+Copyright Policy
+Data Access Policy
+Hyperlink Policy
+Privacy Policy
+Website Policies
+Terms & Conditions
+FAQs
+>
+Ver 3.0; Last reviewed and updated on 22 Aug, 2024
