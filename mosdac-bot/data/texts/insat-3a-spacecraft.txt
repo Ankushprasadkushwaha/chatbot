@@ -12,18 +12,29 @@ Meteorological & Oceanographic Satellite Data Archival Centre
 Space Applications Centre, ISRO
 ☰ Menu
 You are here
-Home » Missions » OCEANSAT-2
-Oceansat-2
-Oceansat-2 satellite mainframe systems derive their heritage from previous IRS missions. Oceansat-2 was launched by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota on Sept. 23, 2009. It carries three payloads: Ocean Colour Monitor (OCM) Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian Space Agency. Oceansat-2 is envisaged to provide continuity of operational services of Oceansat-1(IRS-P4) with enhanced application potential.
-हिन्दी
+Home » Missions » INSAT-3A » SpaceCraft
+INSAT-3A SpaceCraft
+Satellite details
+Acronym INSAT-3A
+Full name Indian National Satellite - 3A
+Satellite Description
+4th flight unit of the INSAT-3 series.
+Missions: operational meteorology and telecommunication
+Mass at launch 2950 kg Dry mass/td> 1348 kg
+Power 3100 W
+Orbit Geostationary orbit Altitude 35786 km
+Longitude 93.5° E
+  Status Operational
+Details on Status (as available)
+Nominal operations.
+Launch 2003-04-10 EOL >2015
 Missions
-OCEANSAT-2
+INSAT-3A
 Introduction
 Objectives
 SpaceCraft
 Payloads
 Data Products
-Documents
 SEARCH
 Search
 FOLLOW US

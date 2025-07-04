@@ -12,18 +12,18 @@ Meteorological & Oceanographic Satellite Data Archival Centre
 Space Applications Centre, ISRO
 ☰ Menu
 You are here
-Home » Missions » INSAT-3DR » Payloads
-INSAT-3DR Payloads
+Home » Mission » INSAT-3DS » Payloads
+INSAT-3DS Payloads
 The satellite has 3 payloads:
 Meteorological (MET) - IMAGER and SOUNDER
 Data Relay Transponder (DRT)
 Satellite Aided Search and Rescue (SAS&R)
 Meteorological Payload
-The INSAT-3DR spacecraft incorporates advanced Imager and Sounder instruments.
+The INSAT-3DS spacecraft incorporates advanced Imager and Sounder instruments.
 IMAGER
-The INSAT-3DR imager provides imaging capability of the earth disc from geostationary altitude in one visible (0.52 - 0.72 micrometers) and five infrared; 1.55 - 1.70(SWIR), 3.80 - 4.00(MIR), 6.50 - 7.00 (water vapour), 10.2 - 11.2 (TIR-1) and 11.5 - 12.5 (TIR-2) bands. The ground resolution at the sub-satellite point is nominally 1km x 1km for visible and SWIR bands, 4km x 4km for one MIR and both TIR bands and 8km x 8km for WV band.
-The Imager is an improved design of VHRR-2 (Very High Resolution Radiometer) heritage instrument flown on the Kalpana-1 resolution in the visible band for the monitoring of meso scale phenomena and severe local storms. The two new SWIR and MWIR bands with a resolution of 1 km and 4 km, respectively, will enable better land-cloud discrimination and detection of surface features like snow. One more significant improvement is the split-band TIR channel with two separate windows in 10.2-11.2 and 11.5-12.5 Micrometer regions with a 4 km resolution.
-This new element enables the extraction of sea surface temperature over the Indian region with a far greater accuracy since the dual-window algorithm can be applied to eliminate the atmospheric attenuation effects. The 1 km resolution of the visible channel and 4 km resolution of the thermal IR channels indirectly improve the accuracy of the derived products like outgoing longwave radiation and cloud motion vectors. The INSAT-3DR Imager payload is a replica of INSAT-3D Imager.
+The INSAT-3DS imager provides imaging capability of the earth disc from geostationary altitude in one visible (0.52 - 0.72 micrometers) and five infrared; 1.55 - 1.70(SWIR), 3.80 - 4.00(MIR), 6.50 - 7.00 (water vapour), 10.2 - 11.2 (TIR-1) and 11.5 - 12.5 (TIR-2) bands. The ground resolution at the sub-satellite point is nominally 1km x 1km for visible and SWIR bands, 4km x 4km for one MIR and both TIR bands and 8km x 8km for WV band.
+The Imager is an improved design of VHRR/2 (Very High Resolution Radiometer) heritage instrument flown on the Kalpana-1 and INSAT-3A missions. The instrument features 6 spectral bands (against the 3 bands in previous versions) offering an improved 1 km resolution in the visible band for the monitoring of meso scale phenomena and severe local storms. The two new SWIR and MWIR bands with a resolution of 1 km and 4 km, respectively, will enable better land-cloud discrimination and detection of surface features like snow. One more significant improvement is the split-band TIR channel with two separate windows in 10.2-11.2 and 11.5-12.5 Micrometer regions with a 4 km resolution.
+This new element enables the extraction of sea surface temperature over the Indian region with a far greater accuracy since the dual-window algorithm can be applied to eliminate the atmospheric attenuation effects. The 1 km resolution of the visible channel and 4 km resolution of the thermal IR channels indirectly improve the accuracy of the derived products like outgoing longwave radiation and cloud motion vectors.
 Key Parameters of the Imager
 Telescope aperture 310 mm diameter
 Number of bands (6) 0.52 - 0.72 µm, VIS (Visible) 1.55 - 1.70 µm, SWIR (Short Wave Infrared) 3.80 - 4.00 µm, MWIR (Mid Wave Infrared) 6.50 - 7.00 µm, WV (Water Vapor) 10.2 - 11.2 µm, TIR-1 (Thermal Infrared) 11.5 - 12.5 µm, TIR-2 (Thermal Infrared)
@@ -41,8 +41,8 @@ Frame time 25 minutes for normal mode
 Signal quantization 10 bit/sample
 Downlink data rate 4.0 Mbit/s
 SOUNDER
-The INSAT-3DR sounder has 18 infrared channels distributed over longwave and shortwave bands alongwith one visible band. A visible channel provides synoptic view of the clouds and the earth to aid in generating three dimensional maps of temperature and moisture structure of the atmosphere.
-The Sounder is a first time instrument of the geostationary INSAT series designed and developed at ISRO. The overall objective is to measure the temperature and humidity profiles (vertical distributions) to obtain a three-dimensional representation of the atmosphere. The instrument requirements call for soundings at 10 km ground resolution every 3 hours for a full frame scan. This enables the derivation of vertical profiles of temperature and humidity. These vertical profiles can then be used to derive various atmospheric stability indices and other parameters such as atmospheric water vapor content and total column ozone amount. The INSAT-3DR Sounder payload is a replica of INSAT-3D Sounder.
+The INSAT-3DS sounder has 18 infrared channels distributed over longwave and shortwave bands. A visible channel provides synoptic view of the clouds and the earth to aid in generating three dimensional map of temperature and moisture structure of the atmosphere.
+The Sounder is a first time instrument of the geostationary INSAT series designed and developed at ISRO. The overall objective is to measure the temperature and humidity profiles (vertical distributions) to obtain a three-dimensional representation of the atmosphere. The instrument requirements call for soundings at 10 km ground resolution every 3 hours for a full frame scan. This enables the derivation of vertical profiles of temperature and humidity. These vertical profiles can then be used to derive various atmospheric stability indices and other parameters such as atmospheric water vapor content and total column ozone amount.
 Key Parameters of the sounder
 Telescope aperture 310 mm diameter
 Number of bands (6) 18 Infrared + 1 Visible
@@ -80,10 +80,11 @@ Band No. Center wavelength µm (cm-1) Bandwidth µm (cm-1) NEDT at 300 K (typica
 17 3.98 (2513) 0.0683 (40) 0.15
 18 3.74 (2671) 0.140 (100) 0.15
 19 0.695 (14367) 0.05 (1000) (0.67-0.72)   0.1% albedo
- Communication Payload
-Communication transponders are required to be configured to provide continuity of some of the INSAT services. A total satellite mass of 2211kg is considered for the launch compatibility, and 70 kg (approximately) of mass apportionment is done for the communication payload components. The communication payload components are - Meteorological Transmitter, Data Relay Transponder, Satellite Aided Search and Rescue (SAS&R) Transponder & S-band Broadcast Satellite Services Transponder.
-Missions
-INSAT-3DR
+  Communication Payload
+  Communication transponders are required to be configured to provide continuity of some of the INSAT services. A total satellite mass of 2000kg is considered for the launch compatibility, and 70 kg (approximately) of mass apportionment is done for the communication payload components. The communication payload components are - Meteorological Transmitter, Data Relay Transponder, Satellite Aided Search and Rescue (SAS&R) Transponder & S-band Broadcast Satellite Services Transponder.
+INSAT-3DS Menu
+Mission
+INSAT-3DS
 Introduction
 Objectives
 SpaceCraft

@@ -12,12 +12,14 @@ Meteorological & Oceanographic Satellite Data Archival Centre
 Space Applications Centre, ISRO
 ☰ Menu
 You are here
-Home » Missions » OCEANSAT-2
-Oceansat-2
-Oceansat-2 satellite mainframe systems derive their heritage from previous IRS missions. Oceansat-2 was launched by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota on Sept. 23, 2009. It carries three payloads: Ocean Colour Monitor (OCM) Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian Space Agency. Oceansat-2 is envisaged to provide continuity of operational services of Oceansat-1(IRS-P4) with enhanced application potential.
-हिन्दी
+Home » Missions » OCEANSAT-3 » Objectives
+OCEANSAT-3 Objectives
+    To ensure the data continuity of Ocean colour and wind vector data to sustain the operational applications.
+    To improve the applications, some additional datasets such as Sea Surface Temperature and more number of bands in Optical region for florescence and in Infrared region for atmospheric corrections are accommodated.
+    To develop / improve related algorithms and data products to serve in well- established application areas and to enhance the mission utility.
+  Oceansat-3 Menu
 Missions
-OCEANSAT-2
+OCEANSAT-3
 Introduction
 Objectives
 SpaceCraft
