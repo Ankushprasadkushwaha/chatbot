@@ -1,0 +1,48 @@
+Skip to main Content
+A
+A
+A
+A
+A
+हिन्दी
+English
+Secondary menu
+SignUp Login Logout
+Meteorological & Oceanographic Satellite Data Archival Centre
+Space Applications Centre, ISRO
+☰ Menu
+You are here
+Home » FAQs
+Frequently Asked Questions
+What is MOSDAC?
+How to be a registered user of MOSDAC?
+I have registered on MOSDAC . i have received an email for email verification. But when I click the link, I get error message.
+I have received a 'reset password mail' But when I click the link, I get error message.
+I get error 'Invalid username or password' even though I provide correct credentials.
+How to know forgot password?
+How to change password?
+I don't have username and password of MOSDAC. Can I download data?
+How can I get near real time data without data ordering?
+How in-situ data can be ordered/requested?
+How Ordered and download the satellite data ?
+Which duration data can be obtained from MOSDAC?
+How many AWS are installed in each state of India?
+Which duration data is available for AWS?
+How to get description about a data product?
+What datasets are available on MOSDAC?
+I am a registered user of MOSDAC. When I download L1 data I get the message "Your account is configured to download this data with latency of 3 days. Please select date accordingly." How should I download data?
+SEARCH
+Search
+FOLLOW US
+Website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+Feedback
+About Us
+Contact Us
+Copyright Policy
+Data Access Policy
+Hyperlink Policy
+Privacy Policy
+Website Policies
+Terms & Conditions
+FAQs
+"Ver 3.0; Last reviewed and updated on 03 Jul, 2025& Served By: Web-Srv-Pri
